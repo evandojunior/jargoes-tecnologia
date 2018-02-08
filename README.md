@@ -3,6 +3,7 @@ Lista com os principais jargões, termos e siglas relacionadas a área de TI.
 
 * [API](#api)
 * [APP](#app)
+* [CMS](#cms)
 * [CVS](#cvs)
 * [DESING PATTERN](#design-pattern)
 * [REPOSITÓRIO](#repositório)
@@ -17,6 +18,9 @@ APP é a abreviação de application ou aplicativo. É um programa desenvolvido 
 
 ## CVS
 O CVS ou SCV(em português), ou Concurrent Version System (Sistema de Versões Concorrentes) é um sistema de controle de versão que permite que se trabalhe com diversas versões de arquivos organizados em um diretório e localizados local ou remotamente, mantendo-se suas versões antigas e os logs de quem e quando manipulou os arquivos.
+
+## CMS
+Sistema de Gerenciamento de Conteúdo (do inglês Content Management System – CMS) é um aplicativo usado para criar, editar, gerenciar e publicar conteúdo de forma consistentemente organizada permitindo que o mesmo seja modificado, removido e adicionado com facilidade.
 
 ## Design Pattern
 Em Engenharia de Software, um padrão de desenho ou padrão de projeto (do inglês design pattern) é uma solução geral para um problema que ocorre com frequência dentro de um determinado contexto no projeto de software.
