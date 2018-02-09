@@ -36,6 +36,9 @@ O Github é um serviço web que oferece diversas funcionalidades extras aplicada
 ## React
 O React é uma biblioteca JavaScript de código aberto para criar interfaces de usuário. É mantido pelo Facebook, Instagram e uma comunidade de desenvolvedores individuais e outras empresas.
 
+## Redux
+Redux é uma maneira de pensar o desenvolvimento de aplicações criada pelo @dan_abramov que teve como principio optimizar a ideia do Flux. Ela foi criada para tentar optimizar alguns obstáculos que o Flux começou a enfrentar, e também veio para simplificar a implementação do mesmo. Inspirada em conceitos da linguagem funcional Elm, e de algumas bibliotecas JS como o Immutable.js,  o Baobab, o  RxJs e o próprio Flux, o Redux veio com alguns paradigmas interessantes e um pouco diferenciados do Flux.
+
 ## Repositório
 Repositórios podem ser apenas para determinados programas, como para linguagens de programação, ou para todo um sistema operacional, normalmente um sistema operacional Unix-like como o Linux. Os operadores de tais repositórios normalmente fornecem um sistema de gestão de pacotes, instrumentos destinados à pesquisa para instalar ou manipular pacotes de software a partir de repositórios.
 
