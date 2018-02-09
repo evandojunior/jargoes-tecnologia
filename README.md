@@ -1,5 +1,5 @@
 # Jargões Tecnologia da Informação
-Lista com os principais jargões, termos e siglas relacionadas a área de TI.
+Lista com os principais jargões, termos, siglas e gírias relacionadas a área de TI.
 
 * [API](#api)
 * [APP](#app)
