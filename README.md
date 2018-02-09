@@ -37,6 +37,9 @@ Git pronunciado [git] (ou pronunciado [dit] em inglês britânico) é um sistema
 ## Github
 O Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. Resumindo, você poderá usar gratuitamente o github para hospedar seus projetos pessoais. Além disso, quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e você pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções. Se você é desenvolvedor e ainda não tem github, você está atrasado e essa é a hora de correr atrás do prejuízo.
 
+## Hello World
+Hello World! é a primeira frase que todo programador experimenta como um símbolo de sucesso. É também o nome de uma série de documentários sobre três linguagens de programação aberta e suas comunidades.
+
 ## React
 O React é uma biblioteca JavaScript de código aberto para criar interfaces de usuário. É mantido pelo Facebook, Instagram e uma comunidade de desenvolvedores individuais e outras empresas.
 
@@ -48,3 +51,4 @@ Repositórios podem ser apenas para determinados programas, como para linguagens
 
 ## UX
 Experiência do usuário (EU), do inglês user experience (UX), é o conjunto de elementos e fatores relativos à interação do usuário com um determinado produto, sistema ou serviço cujo resultado gera uma percepção positiva ou negativa. O termo foi utilizado pela primeira vez por Donald Norman na década de 1990.
+
