@@ -6,6 +6,8 @@ Lista com os principais jargões, termos e siglas relacionadas a área de TI.
 * [CMS](#cms)
 * [CVS](#cvs)
 * [DESING PATTERN](#design-pattern)
+* [REACT](#react)
+* [REDUX](#REDUX)
 * [REPOSITÓRIO](#repositório)
 * [UX](#ux)
 
@@ -30,6 +32,9 @@ Git pronunciado [git] (ou pronunciado [dit] em inglês britânico) é um sistema
 
 ## Github
 O Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. Resumindo, você poderá usar gratuitamente o github para hospedar seus projetos pessoais. Além disso, quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e você pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções. Se você é desenvolvedor e ainda não tem github, você está atrasado e essa é a hora de correr atrás do prejuízo.
+
+## React
+O React é uma biblioteca JavaScript de código aberto para criar interfaces de usuário. É mantido pelo Facebook, Instagram e uma comunidade de desenvolvedores individuais e outras empresas.
 
 ## Repositório
 Repositórios podem ser apenas para determinados programas, como para linguagens de programação, ou para todo um sistema operacional, normalmente um sistema operacional Unix-like como o Linux. Os operadores de tais repositórios normalmente fornecem um sistema de gestão de pacotes, instrumentos destinados à pesquisa para instalar ou manipular pacotes de software a partir de repositórios.
