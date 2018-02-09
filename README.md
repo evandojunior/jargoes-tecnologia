@@ -37,6 +37,9 @@ Em Engenharia de Software, um padrão de desenho ou padrão de projeto (do ingl�
 ## DevOps
 DevOps é uma prática de engenharia de software que possui o intuito de unificar o desenvolvimento de software e a operação de software.
 
+## Fork
+Ao fazer um Fork(Garfo em português), você estará pegando uma versão do projeto pra você e assim poderá fazer contribuir para o projeto e fazer o [Pull Request](#pull-request) para o mantenedor do projeto.
+
 ## Flux
 Flux é a arquitetura de aplicativos que o Facebook usa para criar aplicativos da web do lado do cliente. Complementa os componentes de exibição composta do React utilizando um fluxo de dados unidirecional. É mais um padrão ao invés de um quadro formal, e você pode começar a usar o Flux imediatamente sem muito código novo.
 
@@ -51,6 +54,12 @@ Hello World! é a primeira frase que todo programador experimenta como um símbo
 
 ## MVC
 Model-view-controller, em português modelo-visão-controlador, é um padrão de arquitetura de software que separa a representação da informação da interação do usuário com ele
+
+## Pull Request
+Quando seu trabalho tiver na sua [fork](#fork), você precisa notificar o mantenedor. Isso é geralmente chamado pull request (requisição para ele puxar), e você pode gerar isso pelo website — GitHub tem um "pull request" que notifica automaticamente o mantenedor
+
+## PR
+Sigla para Pull Request
 
 ## React
 O React é uma biblioteca JavaScript de código aberto para criar interfaces de usuário. É mantido pelo Facebook, Instagram e uma comunidade de desenvolvedores individuais e outras empresas.
