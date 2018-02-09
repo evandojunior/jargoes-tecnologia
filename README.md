@@ -6,6 +6,7 @@ Lista com os principais jargões, termos e siglas relacionadas a área de TI.
 * [CMS](#cms)
 * [CVS](#cvs)
 * [DESING PATTERN](#design-pattern)
+* [FLUX](#flux)
 * [REACT](#react)
 * [REDUX](#REDUX)
 * [REPOSITÓRIO](#repositório)
@@ -26,6 +27,9 @@ Sistema de Gerenciamento de Conteúdo (do inglês Content Management System – 
 
 ## Design Pattern
 Em Engenharia de Software, um padrão de desenho ou padrão de projeto (do inglês design pattern) é uma solução geral para um problema que ocorre com frequência dentro de um determinado contexto no projeto de software.
+
+## Flux
+Flux é a arquitetura de aplicativos que o Facebook usa para criar aplicativos da web do lado do cliente. Complementa os componentes de exibição composta do React utilizando um fluxo de dados unidirecional. É mais um padrão ao invés de um quadro formal, e você pode começar a usar o Flux imediatamente sem muito código novo.
 
 ## Git
 Git pronunciado [git] (ou pronunciado [dit] em inglês britânico) é um sistema de controle de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
