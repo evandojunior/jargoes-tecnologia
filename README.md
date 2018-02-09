@@ -11,6 +11,7 @@ Lista com os principais jargões, termos e siglas relacionadas a área de TI.
 * [GIT](#git)
 * [GITHUB](#github)
 * [HELLO WORLD](#hello-world)
+* [MVC](#mvc)
 * [REACT](#react)
 * [REDUX](#REDUX)
 * [REPOSITÓRIO](#repositório)
@@ -47,6 +48,9 @@ O Github é um serviço web que oferece diversas funcionalidades extras aplicada
 
 ## Hello World
 Hello World! é a primeira frase que todo programador experimenta como um símbolo de sucesso. É também o nome de uma série de documentários sobre três linguagens de programação aberta e suas comunidades.
+
+## MVC
+Model-view-controller, em português modelo-visão-controlador, é um padrão de arquitetura de software que separa a representação da informação da interação do usuário com ele
 
 ## React
 O React é uma biblioteca JavaScript de código aberto para criar interfaces de usuário. É mantido pelo Facebook, Instagram e uma comunidade de desenvolvedores individuais e outras empresas.
