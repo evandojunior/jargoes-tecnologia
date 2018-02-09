@@ -14,6 +14,7 @@ Lista com os principais jargões, termos e siglas relacionadas a área de TI.
 * [REACT](#react)
 * [REDUX](#REDUX)
 * [REPOSITÓRIO](#repositório)
+* [SPA](#spa)
 * [UX](#ux)
 
 
@@ -55,6 +56,9 @@ Redux é uma maneira de pensar o desenvolvimento de aplicações criada pelo @da
 
 ## Repositório
 Repositórios podem ser apenas para determinados programas, como para linguagens de programação, ou para todo um sistema operacional, normalmente um sistema operacional Unix-like como o Linux. Os operadores de tais repositórios normalmente fornecem um sistema de gestão de pacotes, instrumentos destinados à pesquisa para instalar ou manipular pacotes de software a partir de repositórios.
+
+## SPA
+Um aplicativo de página única (em inglês "single-page application", ou SPA) é uma aplicação web ou site que consiste de uma única página web com o objetivo de fornecer uma experiência do usuário similar à de um aplicativo desktop.
 
 ## UX
 Experiência do usuário (EU), do inglês user experience (UX), é o conjunto de elementos e fatores relativos à interação do usuário com um determinado produto, sistema ou serviço cujo resultado gera uma percepção positiva ou negativa. O termo foi utilizado pela primeira vez por Donald Norman na década de 1990.
