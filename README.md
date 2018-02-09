@@ -26,7 +26,7 @@ API é um conjunto de rotinas e padrões de programação para acesso a um aplic
 APP é a abreviação de application ou aplicativo. É um programa desenvolvido para executar uma função específica, basicamente para o usuário.
 
 ## CVS
-O CVS ou SCV(em português), ou Concurrent Version System (Sistema de Versões Concorrentes) é um sistema de controle de versão que permite que se trabalhe com diversas versões de arquivos organizados em um diretório e localizados local ou remotamente, mantendo-se suas versões antigas e os logs de quem e quando manipulou os arquivos.
+O CVS ou Concurrent Version System (Sistema de Versões Concorrentes) é um sistema de controle de versão que permite que se trabalhe com diversas versões de arquivos organizados em um diretório e localizados local ou remotamente, mantendo-se suas versões antigas e os logs de quem e quando manipulou os arquivos.
 
 ## CMS
 Sistema de Gerenciamento de Conteúdo (do inglês Content Management System – CMS) é um aplicativo usado para criar, editar, gerenciar e publicar conteúdo de forma consistentemente organizada permitindo que o mesmo seja modificado, removido e adicionado com facilidade.
